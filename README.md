@@ -64,7 +64,7 @@ endmodule
 
 ## Half Subtracter :
 ## Output:
-![modle](./logic.png)
+
 
 ## Truthtable
 ![modle](./truth.png)
